@@ -1,8 +1,8 @@
 # Course-Reservation-and-Exam-registration-systems
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:212224040221
+# Name: NIRANJAN S
+# Date: 18/05/2026
 
 
 # AIM:
